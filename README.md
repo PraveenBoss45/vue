@@ -117,6 +117,10 @@ Thank you to all the people who already contributed to Vue!
 
 ## License
 
+
+---
+
+<!-- Practice contribution by PraveenBoss45 -->
 [MIT](https://opensource.org/licenses/MIT)
 
 Copyright (c) 2013-present, Yuxi (Evan) You
